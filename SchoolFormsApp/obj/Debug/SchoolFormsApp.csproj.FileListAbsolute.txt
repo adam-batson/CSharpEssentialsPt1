@@ -1,0 +1,13 @@
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.AssemblyReference.cache
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\tibatson\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
